@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eswj1102)](https://solved.ac/eswj1102/) 
  -->
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eswj1102)](https://solved.ac/eswj1102/) 
 
-[![nowesmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowesmik)](https://github.com/nowesmik/github-readme-stats) 
+[![nowesmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowesmik)](https://github.com/nowesmik/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowesmik&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eswj1102)](https://solved.ac/eswj1102/) 
 <!-- [![nowesmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowesmik)](https://github.com/nowesmik/github-readme-stats) -->
 <!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnowesmik%2Fhit-counter&count_bg=%23DE9393&title_bg=%23F4D1D1&icon=iconify.svg&icon_color=%23F4F1F1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

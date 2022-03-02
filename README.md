@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eswj1102)](https://solved.ac/eswj1102/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowesmik)](https://github.com/nowesmik/github-readme-stats)
+
+

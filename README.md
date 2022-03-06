@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 <h2>⭐ ABOUT ME </h2>
 
-- 🔭 I’m currently working on Dongduk Univ, computer science
+- 🔭 I’m currently working on Dongduk Women's Univ, computer science
 - 🌱 I’m currently learning WEB/APP front-end & back-end + Algorithm
 - 📫 How to reach me: https://nowesmik.github.io/
 <!--

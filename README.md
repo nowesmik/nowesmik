@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnowesmik%2Fhit-counter&count_bg=%23DE9393&title_bg=%23F4D1D1&icon=iconify.svg&icon_color=%23F4F1F1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  -->
 
-<h2>⭐ Tech Stack </h2>
+<h2>⭐Tech Stack </h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

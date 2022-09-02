@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Dongduk Women's Univ, Computer Science
 - 🌱 I’m currently learning WEB/APP front-end & back-end + Algorithm
-- 📫 How to reach me: https://nowesmik.github.io/
+<!-- - 📫 How to reach me: https://nowesmik.github.io/ -->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

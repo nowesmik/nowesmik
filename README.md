@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 -->
 <h2>⭐ ABOUT ME </h2>
 
-- 🔭 I’m currently working on Dongduk Women's Univ, Computer Science
+- 📚 I’m currently working on Dongduk Women's Univ, Computer Science
 - 🌱 I’m currently learning WEB/APP front-end & back-end + Algorithm
+- 💌 How to reach me: https://nowes00.tistory.com
 <!-- - 📫 How to reach me: https://nowesmik.github.io/ -->
 <!--
 - 👯 I’m looking to collaborate on ...

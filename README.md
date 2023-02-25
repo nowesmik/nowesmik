@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <div align = center>
  
-<h2> </h2>
+
 
  📚 I’m currently working on Dongduk Women's Univ, Computer Science & HCI Science
  

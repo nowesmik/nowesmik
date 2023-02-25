@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 
  📚 I’m currently working on Dongduk Women's Univ, Computer Science & HCI Science
  
+ 💌 How to reach me: https://nowes00.tistory.com
+ 
  🌱 I’m currently learning WEB/APP front-end & back-end + Algorithm
  
- 💌 How to reach me: https://nowes00.tistory.com
+ 
 <!-- - 📫 How to reach me: https://nowesmik.github.io/ -->
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -49,6 +51,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)

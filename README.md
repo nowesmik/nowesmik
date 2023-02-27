@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  
  💌 How to reach me: https://nowes00.tistory.com
  
- 🌱 I’m currently learning WEB/APP front-end & back-end + Algorithm
+ 🌱 I’m currently learning WEB + Algorithm
  
  
 <!-- - 📫 How to reach me: https://nowesmik.github.io/ -->

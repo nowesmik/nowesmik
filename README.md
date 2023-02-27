@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 
  📚 I’m currently working on Dongduk Women's Univ, Computer Science & HCI Science
  
+ 🌱 I’m currently studying web + algorithm
+ 
  💌 How to reach me: https://nowes00.tistory.com
  
- 🌱 I’m currently learning WEB + Algorithm
  
  
 <!-- - 📫 How to reach me: https://nowesmik.github.io/ -->
